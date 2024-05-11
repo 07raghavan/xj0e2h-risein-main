@@ -1,3 +1,9 @@
+Digital Empowerment 
+
+Bangalore is India's tech hub with a vast freelance workforce. Establish a platform that connects freelancers with potential clients, enhancing visibility and opportunities.
+
+
+
 ⚠️ **Important**<br/>Make sure the following tools are installed on your computer
 
 <p align="center">
